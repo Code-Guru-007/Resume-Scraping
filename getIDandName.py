@@ -7,7 +7,6 @@ headers = {
         }
 skip = 116960
 
-#Exception handle for when there is an error in the API request
 
 for x in range(231, 2310):
     print(f'>>>   {x}')
